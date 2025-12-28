@@ -7,7 +7,7 @@
 - 数据集名称：`Metro_Interstate_Traffic_Volume`
 - 数据规模：48,204 条小时级观测记录，9 个核心属性
 - 关键字段：`traffic_volume`（交通量）、`date_time`（时间戳）、`temp`（气温）、`rain_1h`（小时降雨量）、`weather_main`（天气类型）
-- 数据来源：[[Kaggle Metro Interstate Traffic Volume](https://www.kaggle.com/datasets/robikscube/metro-interstate-traffic-volume)](https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume)
+- 数据来源：https://archive.ics.uci.edu/dataset/492/metro+interstate+traffic+volume
 
 ## 核心研究内容
 1.  **分布分析**：揭示交通量双峰分布特征，对比不同天气下交通量的离散程度
