@@ -1,4 +1,4 @@
-# -Analysis-of-Traffic-Volume-Patterns-and-Influencing-Factors
+# Analysis of Traffic Volume Patterns and Influencing Factors
 
 ## 项目简介 
 本项目基于 `Metro_Interstate_Traffic_Volume` 数据集，通过**标准数据可视化技术**（直方图、箱线图、散点图等），系统探究城市州际公路交通量的分布特征、时间规律及天气影响，挖掘「时间基础节奏+天气双向调节」的核心交通运行逻辑，为交通管理与调度提供数据支撑。
